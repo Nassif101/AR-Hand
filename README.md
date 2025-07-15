@@ -89,7 +89,7 @@ The data flow is as follows:
 Here are some images from the project:
 
 ![System Structure](Media/imgonline-com-ua-collage-613nEckU0t.jpg)
-*Figure: System Structure*
+*Figure: Hand Variants*
 
 ![Data Glove](Media/Me.jpg)
-*Figure: The Data Glove in action*
+*Figure: The Workspace*
